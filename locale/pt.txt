@@ -52,8 +52,9 @@ panorama_1A231C0C_112C_6A27_419E_CFB7B66CB336.label = Santos Bar-23 -Edit
 panorama_1A235370_112C_7EFF_41A2_B81654264D8F.label = Santos Bar-22-Edit
 panorama_1A23E9A0_112C_6A60_41AD_3072C609C0E6.label = Santos Bar-21-Edit
 panorama_1A3CB774_112C_A6E0_4150_AAF3AD8528CC.label = Santos Bar-17-Edit
+panorama_1B4B5768_17F6_4D27_41AA_ECA19134C09C.label = Santos Bar-13-Edit
+panorama_1BB66407_17E9_C2E9_41B2_2805AC0FAA5D.label = Santos Bar-14-Edit
 panorama_1D1ADEE8_112C_A7EF_41AF_C4D3D8E35393.label = Santos Bar-16-Edit
-panorama_30AC5E87_1124_6620_41AB_2FA21C013C75.label = Santos Bar-13-Edit
 panorama_3293B876_115C_6AE3_4199_CB3104CA4EB7.label = Santos Bar-01-Edit
 
 ## Hotspot

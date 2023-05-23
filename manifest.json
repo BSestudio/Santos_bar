@@ -1,6 +1,4 @@
 {
- "start_url": "index.htm",
- "name": "Santos Bar ",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#66FF33",
+ "name": "Santos Bar ",
+ "display": "fullscreen",
  "background_color": "#66FF33",
- "display": "fullscreen"
+ "theme_color": "#66FF33",
+ "start_url": "index.htm"
 }

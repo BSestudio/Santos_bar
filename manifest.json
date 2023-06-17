@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "display": "fullscreen",
  "name": "Santos Bar ",
+ "display": "fullscreen",
+ "background_color": "#66FF33",
  "theme_color": "#66FF33",
- "background_color": "#66FF33"
+ "start_url": "index.htm"
 }
